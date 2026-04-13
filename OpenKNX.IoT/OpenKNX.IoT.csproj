@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\CoAP-CSharp\CoAP.NET\CoAP.Std10.csproj" />
+    <ProjectReference Include="..\CoAP-CSharp\CoAP.NET\CoAP.Std10.csproj" />
   </ItemGroup>
 
 </Project>
